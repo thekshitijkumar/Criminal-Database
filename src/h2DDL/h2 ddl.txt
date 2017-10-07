@@ -1,0 +1,3 @@
+create table criminal(id int(10) not null primary key,cname varchar(30), gender varchar(1),weight varcahr(10),nationality varchar(10),height varchar(10),
+height varchar(10),hair varchar(10),eye varchar(10),cone varchar(20),ctwo varchar(20),cthree varchar(20),cfour varchar(20),cfive varchar(20),image blob
+);
