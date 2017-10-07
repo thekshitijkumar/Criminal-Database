@@ -17,7 +17,7 @@ import org.omg.PortableInterceptor.SYSTEM_EXCEPTION;
 
 /**
  *
- * @author Himanshu
+ * @author kshitij
  */
 public class Search extends javax.swing.JFrame {
 public static String name,weight,height,desh,gender,hair,eye;

@@ -11,7 +11,7 @@ import net.proteanit.sql.DbUtils;
 
 /**
  *
- * @author Himanshu
+ * @author kshitij
  */
 public class view extends javax.swing.JFrame {
 

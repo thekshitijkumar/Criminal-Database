@@ -7,7 +7,7 @@ package criminal;
 
 /**
  *
- * @author Himanshu
+ * @author kshitij
  */
 public class Search2 extends javax.swing.JFrame {
 

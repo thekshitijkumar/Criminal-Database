@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Himanshu
+ * @author kshitij
  */
 public class Edit extends javax.swing.JFrame {
     public static String name,weight,height,desh;
